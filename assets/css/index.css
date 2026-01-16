@@ -104,8 +104,8 @@ section .subtitle {
 /* GRID DE CARDS */
 
 .card-link {
-  text-decoration: none;   /* remove o sublinhado */
-  color: inherit;          /* mantém as cores do card */
+  text-decoration: none;   
+  color: inherit;          
 }
 
 .card-link:hover .card {
@@ -184,7 +184,7 @@ footer {
   max-width: none;
   margin: 0;
   padding: 80px 60px;
-  background-image: url("/assets/images/backgrounds/section.security.png");
+  background-image: url("./assets/images/backgrounds/section.security.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -219,7 +219,7 @@ footer {
   margin: 0;
   padding: 80px 60px;
 
-  background-image: url("/assets/images/backgrounds/section.alliances.png");
+  background-image: url("../assets/images/backgrounds/section.alliances.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -254,7 +254,7 @@ footer {
   margin: 0;
   padding: 80px 60px;
 
-  background-image: url("/assets/images/backgrounds/section.datacenter.png");
+  background-image: url("/portfolio-support/assets/images/backgrounds/section.datacenter.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -422,4 +422,8 @@ footer {
     max-width: 140px;
     height: auto;
   }
+
 }
+
+
+

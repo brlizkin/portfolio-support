@@ -89,7 +89,7 @@ nav a.active {
     max-width: none;
     margin: 0;
     padding: 40px 270px;
-    background-image: url("/assets/images/backgrounds/securitywllb.png");
+    background-image: url("/portfolio-support/assets/images/backgrounds/securitywllb.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -259,4 +259,5 @@ footer {
     .logo-placeholder {
         justify-content: center;
     }
+
 }

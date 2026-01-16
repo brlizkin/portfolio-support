@@ -151,6 +151,7 @@ section .subtitle {
     box-shadow: 0 10px 30px rgba(0,0,0,0.05);
     transition: transform 0.2s ease, box-shadow 0.2s ease;
     cursor: pointer;
+    height: 100%;
 }
 
 .card:hover {
@@ -272,4 +273,5 @@ footer {
     .logo-placeholder {
         justify-content: center;
     }
+
 }

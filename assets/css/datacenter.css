@@ -102,7 +102,7 @@ nav a.active {
     max-width: none;
     margin: 0;
     padding: 40px 270px;
-    background-image: url("/portfolio-support/assets/images/backgrounds/datacenterwll.png");
+    background-image: url("/portfolio-support/assets/images/backgrounds/datacenterwllb.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -275,4 +275,5 @@ footer {
     }
 
 }
+
 

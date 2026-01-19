@@ -108,7 +108,7 @@ nav a.active {
     background-repeat: no-repeat;
 }
 
-.fundo-img::before {
+.fundo-img::after {
   content: "";
   position: absolute;
   inset: 0;
@@ -283,5 +283,6 @@ footer {
     }
 
 }
+
 
 

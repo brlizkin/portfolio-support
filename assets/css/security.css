@@ -108,6 +108,14 @@ nav a.active {
     background-repeat: no-repeat;
 }
 
+.fundo-img::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background:  rgba(5, 25, 39, 0.432);
+  z-index: 0;
+}
+
 /* SEÇÕES */
 section {
     max-width: 1400px;
@@ -275,4 +283,5 @@ footer {
     }
 
 }
+
 

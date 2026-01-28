@@ -15,7 +15,7 @@
 }
 
 body {
-    background: red;
+    background: var(--adistec-light);
     color: var(--adistec-blue);
     line-height: 1.6;
 }

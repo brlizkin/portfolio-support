@@ -47,4 +47,20 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   animate();
+
+  /* ===============================
+      MENU DE IDIOMAS
+  ================================ */
+  const btn = document.querySelector('.idioma-butt');
+  const menu = document.querySelector('.idioma-menu');
+
+  btn.addEventListener('click', () => {
+    menu.classList.toggle('active');
+  });
+
+  document.addEventListener('click', (e) => {
+    if (!e.target.closest('.idioma')) {
+      menu.classList.remove('active');
+    }
+  });
 });

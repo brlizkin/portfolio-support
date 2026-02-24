@@ -81,7 +81,6 @@ nav a.active {
   content: "";
   position: absolute;
   inset: 0;
-  background: rgba(21, 21, 24, 0.8);
   z-index: 0;
 }
 

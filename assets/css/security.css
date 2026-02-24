@@ -71,10 +71,10 @@ nav a.active {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    padding: 96px 48px 64px;
-    max-width: 1400px;
-    margin: auto;
     position: relative;
+    max-width: none;
+    margin: 0;
+    padding: 40px 60px;
 }
 
 .hero h1 {

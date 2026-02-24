@@ -551,6 +551,9 @@ footer {
   .vendor-hero {
     padding: 64px 24px;
     text-align: center;
+    min-height: 320px;
+    background-image: url("AAAAA.png");
+    background-position: center top;
   }
 
   .vendor-hero-content {
@@ -588,5 +591,28 @@ footer {
 
   .vendor-content {
     order: 1;
+  }
+
+  .vendor-section {
+    padding: 0;
+  }
+
+  .grid {
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+
+  .card {
+    width: 100%;
+    text-align: left;
+  }
+
+  .contact-card {
+    position: relative;
+    top: auto;
+  }
+
+  .logo-placeholder {
+    justify-content: center;
   }
 }

@@ -84,6 +84,7 @@ body {
 .vendor-hero::before {
     content: "";
     position: absolute;
+    background: rgba(255, 255, 255, 0.596);
     inset: 0;
     z-index: 0;
 }

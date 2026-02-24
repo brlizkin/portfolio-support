@@ -66,15 +66,30 @@ nav a.active {
 }
 
 /* HERO */
-.hero {
-    background-image: url("/portfolio-support/assets/images/backgrounds/adistec.jpg");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+.hero-section {
     position: relative;
     max-width: none;
     margin: 0;
     padding: 40px 60px;
+    background-image: url("/portfolio-support/assets/images/backgrounds/adistec.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.hero-section::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(21, 21, 24, 0.8);
+  z-index: 0;
+}
+
+.hero {
+    padding: 96px 48px 64px;
+    max-width: 1400px;
+    margin: auto;
+    position: relative;
 }
 
 .hero h1 {

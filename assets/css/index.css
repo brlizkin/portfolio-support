@@ -178,6 +178,11 @@ section .subtitle {
     margin-bottom: 12px;
 }
 
+.tag:hover {
+    transform: translateY(0px);
+    background: rgba(1, 67, 165, 0.31);
+}
+
 .card h3 {
     font-size: 18px;
     margin-bottom: 8px;

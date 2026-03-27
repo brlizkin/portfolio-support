@@ -73,7 +73,7 @@ body {
     max-width: none;
     margin: 0;
     padding: 200px 60px;
-    background-image: url("w1.jpg");
+    background-image: url("hero-1trust.jpg");
     background-size: cover;
     background-position: top;
     background-repeat: no-repeat;
@@ -240,7 +240,7 @@ body {
 .background-full{
   position: relative;
     padding-top: 64px;
-    background-image: url("wa1.webp");
+    background-image: url("background-1trust.webp");
     background-size: cover;
     background-position: bottom;
     background-repeat: no-repeat;
@@ -552,7 +552,7 @@ footer {
     padding: 64px 24px;
     text-align: center;
     min-height: 320px;
-    background-image: url("AAAAA.png");
+    background-image: url("hero-mobile.png");
     background-position: center top;
   }
 

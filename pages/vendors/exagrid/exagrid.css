@@ -74,7 +74,7 @@ body {
     min-height: 320px;
     margin: 0;
     padding: 80px 60px;
-    background-image: url("hero1.jpg");
+    background-image: url("hero-exagrid.jpg");
     background-size: cover;
     background-position: right;
     background-repeat: no-repeat;
@@ -239,7 +239,7 @@ body {
 .background-full{
   position: relative;
     padding-top: 64px;
-    background-image: url("bg.jpg");
+    background-image: url("background-exagrid.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

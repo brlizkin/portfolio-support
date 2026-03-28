@@ -73,7 +73,7 @@ body {
     max-width: none;
     margin: 0;
     padding: 200px 60px;
-    background-image: url("wll1.jpg");
+    background-image: url("hero-elastic.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -238,7 +238,7 @@ body {
 
 .background-full{
     padding-top: 64px;
-    background-image: url("wll2.avif");
+    background-image: url("background-elastic.avif");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

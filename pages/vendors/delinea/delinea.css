@@ -73,7 +73,7 @@ body {
     max-width: none;
     margin: 0;
     padding: 200px 60px;
-    background-image: url("bg21.webp");
+    background-image: url("hero-delinea.webp");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -239,7 +239,7 @@ body {
 .background-full{
   position: relative;
     padding-top: 64px;
-    background-image: url("bg2.webp");
+    background-image: url("background-delinea.webp");
     background-size: cover;
     background-position: left;
     background-repeat: no-repeat;

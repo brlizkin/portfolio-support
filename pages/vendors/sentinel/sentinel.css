@@ -73,7 +73,7 @@ body {
     max-width: none;
     margin: 0;
     padding: 80px 60px;
-    background-image: url("hero1.svg");
+    background-image: url("hero-sentinel.svg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -239,7 +239,7 @@ body {
 .background-full{
   position: relative;
     padding-top: 64px;
-    background-image: url("hero.svg");
+    background-image: url("background-sentinel.svg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

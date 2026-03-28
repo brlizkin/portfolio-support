@@ -239,7 +239,7 @@ body {
 .background-full{
   position: relative;
     padding-top: 64px;
-    background-image: url("bg-pure.jpg");
+    background-image: url("background-pure.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

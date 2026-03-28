@@ -73,7 +73,7 @@ body {
     max-width: none;
     margin: 0;
     padding: 80px 60px;
-    background-image: url("wall10.webp");
+    background-image: url("hero-veeam.webp");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -239,7 +239,7 @@ body {
 .background-full{
   position: relative;
     padding-top: 64px;
-    background-image: url("teste.png");
+    background-image: url("background-veeam.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

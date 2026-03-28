@@ -73,7 +73,7 @@ body {
     max-width: none;
     margin: 0;
     padding: 80px 60px;
-    background-image: url("wll.webp");
+    background-image: url("hero-thales.webp");
     background-size: cover;
     background-position: bottom;
     background-repeat: no-repeat;
@@ -239,7 +239,7 @@ body {
 .background-full{
   position: relative;
     padding-top: 64px;
-    background-image: url("wall1.png");
+    background-image: url("background-thales.png");
     background-size: cover;
     background-position: bottom;
     background-repeat: no-repeat;

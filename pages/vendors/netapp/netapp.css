@@ -74,7 +74,7 @@ body {
     min-height: 320px;
     margin: 0;
     padding: 80px 60px;
-    background-image: url(hero12.jpg);
+    background-image: url("hero-netapp.jpg");
     background-size: cover;
     background-position: right;
     background-repeat: no-repeat;
@@ -240,7 +240,7 @@ body {
 .background-full{
   position: relative;
     padding-top: 64px;
-    background-image: url("bg22.webp");
+    background-image: url("background-netapp.webp");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

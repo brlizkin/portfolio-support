@@ -73,7 +73,7 @@ body {
     max-width: none;
     margin: 0;
     padding: 80px 60px;
-    background-image: url("wa1.jpg");
+    background-image: url("hero-nozomi.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -239,7 +239,7 @@ body {
 .background-full{
   position: relative;
     padding-top: 64px;
-    background-image: url("wallp.webp");
+    background-image: url("background-nozomi.webp");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

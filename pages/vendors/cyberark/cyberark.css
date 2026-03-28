@@ -239,7 +239,7 @@ body {
 .background-full{
   position: relative;
     padding-top: 64px;
-    background-image: url("background-cyberark.png");
+    background-image: url("background-cyberark.webp");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

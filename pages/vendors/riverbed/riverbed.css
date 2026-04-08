@@ -101,7 +101,7 @@ body {
 }
 
 .vendor-logo {
-  max-height: 1100px;
+  max-height: 440px;
   margin-bottom: 24px;
 }
 
@@ -237,12 +237,13 @@ body {
 }
 
 .background-full{
-  position: relative;
+    position: relative;
     padding-top: 64px;
     background-image: url("background-riverbed.avif");
     background-size: cover;
     background-position: top right;
     background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 .background-full::after {

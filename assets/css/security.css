@@ -103,24 +103,11 @@ nav a.active {
     max-width: 720px;
 }
 
-/* BACKGROUND PLACEHOLDER (LOGO COLMEIA) */
-/*.hero::after {
-    content: "";
-    position: absolute;
-    right: 0;
-    top: 0;
-    width: 520px;
-    height: 520px;
-    background: var(--adistec-gray); * placeholder do logo colmeia *
-    clip-path: polygon(25% 6%, 75% 6%, 100% 50%, 75% 94%, 25% 94%, 0% 50%);
-    z-index: -1;
-}*/
-
 .fundo-img {
     position: relative;
     max-width: none;
     margin: 0;
-    padding: 40px 200px;
+    padding: 40px 220px;
     background-image: url("/portfolio-support/assets/images/backgrounds/securitywllb.png");
     background-size: cover;
     background-position: center;

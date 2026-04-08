@@ -237,7 +237,7 @@ body {
 }
 
 .background-full{
-    padding-top: 64px;
+    padding-top: 16px;
     background-image: url("background-checkmarx.png");
     background-size: cover;
     background-position: center;
@@ -287,6 +287,42 @@ body {
     content:"E-mail Copiado!";
 }
 
+.promotion-content {
+    max-height: 240px;
+    padding: 16px;
+    justify-content: center;
+    gap: 32px;
+    min-width: max-content;
+    padding: 16px;
+    overflow: hidden;
+    width: 100%;
+    max-width: 1400px;
+    margin: auto;
+    cursor: grab;
+    overflow-x: auto;
+    scroll-behavior: smooth;
+}
+
+.grid-promotion {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 24px;
+}
+
+.card-promotion {
+    background: var(--card-bg);
+    border-radius: var(--radius);
+    padding: 24px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    cursor: pointer;
+}
+
+.card-promotion:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 20px 40px rgb(0, 0, 0);
+}
+
 .grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
@@ -306,6 +342,7 @@ body {
     transform: translateY(-6px);
     box-shadow: 0 20px 40px rgba(0,0,0,0.08);
 }
+
 
 .logo-placeholder {
     height: 48px;
@@ -456,6 +493,7 @@ footer {
 
   scroll-snap-align: center;
 }
+
 
 .logo-card img {
   max-width: 100px;
